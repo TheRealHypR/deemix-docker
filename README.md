@@ -1,4 +1,5 @@
 # deemix-docker
+### Headless deemix in a docker
 
 1. paste your arl in config/.arl
 2. edit script.sh as you like
